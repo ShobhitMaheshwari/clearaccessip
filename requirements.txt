@@ -1,0 +1,15 @@
+nltk
+pandas
+tensorflow
+numpy
+scikit-learn
+matplotlib
+scipy
+HTMLParser
+Scrapy
+textblob
+keras
+jupyter
+gensim
+Cython
+BeautifulSoup4
