@@ -13,3 +13,4 @@ jupyter
 gensim
 Cython
 BeautifulSoup4
+networkx
